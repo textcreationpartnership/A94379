@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>'Tis a plaine case gentlemen</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94379</idno>
+            <idno type="STC">Wing T1307</idno>
+            <idno type="STC">Thomason 669.f.8[12]</idno>
+            <idno type="STC">ESTC R212059</idno>
+            <idno type="EEBO-CITATION">99870712</idno>
+            <idno type="PROQUEST">99870712</idno>
+            <idno type="VID">161063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161063)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f8[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>'Tis a plaine case gentlemen</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Stephen Bvkley,</publisher>
+                  <pubPlace>Yorke :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Oh the distraction of this factious age!".</note>
+                  <note>Royalist verses.</note>
+                  <note>Annotation on Thomason copy: "June: 6th".</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:161063:1" rendition="simple:additions"/>
+            <head>'Tis a plaine Caſe GENTLEMEN:</head>
+            <l>OH the diſtraction of this Factious age!</l>
+            <l>Have not wile-men (who are ſtarke mad with rage,</l>
+            <l>Brought this faire Land to ſuch a combuſtion.</l>
+            <l>That rhrough their means we may feare confuſion.</l>
+            <l>A horrid Tragedy is now begun.</l>
+            <l>And ſtill continues, would to God 'twere done.</l>
+            <l>'Tis write in bloud, as all the World may ſee,</l>
+            <l>And plainely reade this Kingdoms miſery</l>
+            <l>Oh! who would ha' thought that two yeares agoe,</l>
+            <l>That ſo much Chriſtian bloud ſhould on th' earth flow,</l>
+            <l>As hath been ſhed this laſt yeare? curſt be he</l>
+            <l>That was the cauſe of this Phlebotamie.</l>
+            <l>Some are confident in their opinion,</l>
+            <l>Papiſts have fomented this Diviſion;</l>
+            <l>Others ſay, the Browniſts (of whome beware)</l>
+            <l>Have ſtir'd up this unnaturall, wretched Warre:</l>
+            <l>For my owne part, I thinke they both have been</l>
+            <l>The Ruine of this Nation. Theſ eſtill ſpin</l>
+            <l>The thread of our undoing: theſe a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thoſe</l>
+            <l>Beſides theſe two that are this Iſlands foes.</l>
+            <l>Nay' beſides theſe, there are ſome high in State,</l>
+            <l>Who to this Land are moſt unfortunate.</l>
+            <l>I dare not name them yet ther's few but knowes</l>
+            <l>Who are the Kings and Kingdomes profeſt foes.</l>
+            <l>May all that wiſh ill will unto this Land,</l>
+            <l>Never ſubſiſt in Peace, but may the hand</l>
+            <l>Of divine Juſtice bring them unto ſhame;</l>
+            <l>Blaſte their fame, forgotten be their name.</l>
+            <l>They that breath bloud, and do defie faire Peace,</l>
+            <l>May they want joy their ſorrows never ceaſe:</l>
+            <l>Torne with poſſeſſed whirlewinds may they dye,</l>
+            <l>And Dogs barke at their murtherous memory.</l>
+            <l>There is no honeſt heart but needs muſt greive,</l>
+            <l>To conſider the Times wherein we live.</l>
+            <l>What eye can refraine from ſhedding ſalt teares?</l>
+            <l>To ſee the many miſchiefs our vaine feares,</l>
+            <l>And cauſeleſſe jealouſies have on us brought,</l>
+            <l>Kindled this ſtrange fire, and all our woes wrought.</l>
+            <l>Theſe are the Jonans, that the tempeſt rayſe,</l>
+            <l>Theſe are the Achans that our Iſraell amaze.</l>
+            <l>Wer't not for feares and jealouſies at firſt,</l>
+            <l>We had not with the plague of Warre been curſt,</l>
+            <l>But bleſt with happy Peace; there had not come</l>
+            <l>On this ſame Kingdome ſuch a Martyrdome:</l>
+            <l>The King had not gon from us, no diſcontent</l>
+            <l>Aroſe at all, 'twixt Him and's Parliament.</l>
+            <l>But we our ſelves have cauſ'd our ſeverall woes;</l>
+            <l>Though we be victors, yet w'have overthrowes.</l>
+            <l>Let the King or Parliament have the beſt,</l>
+            <l>Both King and Kingdomes ſuffers lyes oppreſt;</l>
+            <l>Let who can have the day, with your favour,</l>
+            <l>Both Armies are looſers, for their labour;</l>
+            <l>Much precious bloud is loſt, many a poore ſoule,</l>
+            <l>And cannot the thought of this condole</l>
+            <l>This civill, uncivill warre? But you'l ſay,</l>
+            <l>If it pleaſe God our Forces get the day,</l>
+            <l>We ſhall be then moſt happy live ſecure,</l>
+            <l>Our dwellings being entrenched about moſt ſure</l>
+            <l>From our enemies. Do not your ſelves deceive,</l>
+            <l>The enemi's within you that beleive.</l>
+            <l>'Tis not your Bulwarks can ſave your <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uck nor pelfe,</l>
+            <l>Man is the greateſt enemy to himſelfe.</l>
+            <l>'Tis not your boaſting that y'are ſafe i'th City,</l>
+            <l>Y'are no where ſafe, though ye ſeeme neere ſo witty,</l>
+            <l>And thus much know from me, for verily,</l>
+            <l>W'are certaine of nothing but uncertainty.</l>
+            <l>The King not certaine is of's Royall Crowne,</l>
+            <l>Nor the Subject of what he calls his owne.</l>
+            <l>Such is th'inconſtantcy' of this worlds Ball,</l>
+            <l>No man knowes whether he ſhall ſtand or fall.</l>
+            <l>Rely not therefore on the Arme of fleſh,</l>
+            <l>Depend not on the Army neither truſt freſh</l>
+            <l>Horſes, not the power or prowis of Kings;</l>
+            <l>All theſe without the Lord are but vaine things.</l>
+            <l>Unleſſe God keepe your City, the watchmen watch</l>
+            <l>In vaine, and without him much harms you'le catch.</l>
+            <l>Oh! whether is our ancient courage fled?</l>
+            <l>With our forefathers it is long ſince dead,</l>
+            <l>And now we Engliſh are even like our Bowes,</l>
+            <l>That once won Battailes, now skares non but Crows,</l>
+            <l>Our home-bred jarrs and civill conteſtations,</l>
+            <l>Have render'd us a ſtorme to Forraigne Nations.</l>
+            <l>LONDON you count is yours, &amp; the Court's yours,</l>
+            <l>The King muſt then be yours, and his Crown yours,</l>
+            <l>And what are you then? Royall theeves, you'le blow,</l>
+            <l>Seditious fire which ſtill doth ſpread and growe</l>
+            <l>To ſuch a huge intollerable flame,</l>
+            <l>That all your wit can never quench the ſame.</l>
+            <l>You that ſit threatning what ſtormes you'le raiſe here,</l>
+            <l>Do you know where they'l light? I'le tell you where,</l>
+            <l>You like ſo many Joves, do throwe them downe;</l>
+            <l>You regared none, neither Scepter nor Crowne,)</l>
+            <l>And what then? you like Tyles on houſes tops.</l>
+            <l>When foule wether comes, will ſhift the rainy drops,</l>
+            <l>From one, to one and whileſt from you it ſheads,</l>
+            <l>Where falls the ſhowers? on the poor Peoples heads,</l>
+            <l>I'le tell you a pretty tale. There grew a tall,</l>
+            <l>A goodly fence of Hawthorn and of Bryer,</l>
+            <l>That when the Sunne was chollericke and hot</l>
+            <l>Kept ſheepe and yeaning Lambs ſafe from his rage</l>
+            <l>Or when the Sky ſtorm'd did his wrath aſſwage.</l>
+            <l>This goodly rowe of Bryers ſtill anon,</l>
+            <l>Would as the Sheep went by, teare from their backs</l>
+            <l>Rags of their wooly coates, at which the ſheepe</l>
+            <l>(Though by protection of this good old Bryer</l>
+            <l>They were fed fatt, and therefore were grown proud</l>
+            <l>Rep<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n'd, and did preferre bills of complaint</l>
+            <l>Up to the ſhepheards: The rude hairbrain ſhepheards</l>
+            <l>Cryed dovvn vvith this proud Bryer; the hedging bills</l>
+            <l>So layd about them, dovvn the Bryer did fall,</l>
+            <l>And vvha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enſued? a tale moſt tragicall.</l>
+            <l>Being layd along, they trod on't in deſpite,</l>
+            <l>Put fire unto it, and burnt it in the flame,</l>
+            <l>The green bovvs vvept, ſeeing men paſt ruth or ſhame</l>
+            <l>What follovvs next? marry haile, raine and ſnovv,</l>
+            <l>Beat on the ſheepe and Shepherds, cold vvinds blovv</l>
+            <l>But vvhers their ſhelter? gon. Then did the heat</l>
+            <l>So ſcorch them, that they had no lift to eate.</l>
+            <l>But wher's their coole ſhade now? gon, gon, &amp; then</l>
+            <l>Others breake in, and feed, whileſt theſe fed leane.</l>
+            <l>At laſt ſtarved wolves and ravenous foxes came,</l>
+            <l>And eare up all left neither ewe, nor lambe;</l>
+            <l>The Shepherds pin<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to nothing and like men</l>
+            <l>Made wiſe by their harmes, wiſht th'ole Bryer agen.</l>
+            <l>I'have read a Text, preach you upon't tis plaine,</l>
+            <l>They ſtab themſelves, that ſtrike their Soveraigne.</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>YORKE,</hi> Printed by <hi>STEPHEN BVKLEY,</hi> 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
